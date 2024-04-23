@@ -1,0 +1,10 @@
+/* Stylesheet for index.html */
+
+div .text {
+    background-color: #e4e022;
+    color: #FF0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Only the `p` elements that are descendants of the `div` element should have a yellow background, red text, a font size of 20px, and center aligned.
