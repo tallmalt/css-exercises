@@ -1,0 +1,17 @@
+/* Stylesheet for index.html */
+
+.positive
+.negative {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.positive {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.negative {
+    background-color: #f7ea33;
+}
