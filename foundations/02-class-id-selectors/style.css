@@ -1,0 +1,21 @@
+/* Style sheet for index.html */
+
+.paragraph {
+    background-color:rgb(214, 142, 178);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#number-2 {
+    color: rgb(17, 17, 241);
+    font-size: 36px;
+}
+
+#number-4 {
+    background-color: rgb(117, 236, 117);
+    font-size: 24px;
+    font-weight: bold;
+}
